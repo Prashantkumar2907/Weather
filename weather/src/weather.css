@@ -37,6 +37,7 @@ body{
 .main{
     margin-top: 20vh;
     height: 60vh;
+    width: 100vw;
 }
 
 .app{
